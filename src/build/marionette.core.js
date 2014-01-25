@@ -22,7 +22,10 @@ var Marionette = (function(global, Backbone, _){
 // @include ../marionette.templatecache.js
 // @include ../marionette.renderer.js
 
+
 // @include ../marionette.view.js
+// @include ../marionette.behavior.js
+// @include ../marionette.behaviors.js
 // @include ../marionette.itemview.js
 // @include ../marionette.collectionview.js
 // @include ../marionette.compositeview.js
