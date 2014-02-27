@@ -161,7 +161,7 @@ describe("app router", function(){
     });
 
     it("should call the configured method with parameters", function(){
-      expect(controller.withParam).toHaveBeenCalledWith("1");
+      expect(controller.withParam).toHaveBeenCalledWith("1", null);
     });
   });
 
